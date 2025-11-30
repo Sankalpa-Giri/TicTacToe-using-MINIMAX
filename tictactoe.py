@@ -34,6 +34,7 @@ def minimax(board, is_maximizing, alpha, beta):
     if check_draw(board):
         return 0
     
+    
     #Human plays as maximizer
     if is_maximizing:
         best_score = -math.inf
