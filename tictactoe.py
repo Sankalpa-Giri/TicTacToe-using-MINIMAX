@@ -3,8 +3,8 @@ import math
 class Colors:
     RED = '\033[91m'      # For errors/warnings
     GREEN = '\033[92m'    # For wins
-    YELLOW = '\033[93m'   # Good for draws/highlights
-    BLUE = '\033[94m'     # Good for information
+    YELLOW = '\033[93m'   # For agent win
+    BLUE = '\033[94m'     # Good for information(new game, draw)
     RESET = '\033[0m'     # Resets color to default
 board = [' '] * 9
 #board = ['X',' ','O',' ','X',' ','O',' ',' ']

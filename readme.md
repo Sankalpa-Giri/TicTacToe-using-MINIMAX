@@ -8,13 +8,13 @@ This project implements a **Tic-Tac-Toe game** where a human player competes aga
 
 ## **1. Features**
 
-### ✔ Fully interactive console-based Tic-Tac-Toe
+### ✔ Unbeatable AI: The computer plays perfectly and will never lose. The best outcome you can hope for is a draw.
 
-### ✔ AI agent using Minimax + Alpha-Beta pruning
+### ✔ Alpha-Beta Pruning: Optimized decision-making process that cuts off unnecessary branches in the game tree, making the AI think faster.
 
-### ✔ Valid move checking and error handling
+### ✔ Error Handling: Prevents users from overwriting taken cells or entering invalid inputs.
 
-### ✔ Highlights wins, losses, and draws using color-coded text
+### ✔ Console Interface: Clean, colored terminal output for game states (Wins, Errors, Draws).
 
 ### ✔ Human can choose who plays first
 
@@ -192,7 +192,7 @@ Gameplay continues with alternating turns.
 
 ---
 
-## **10. Possible Improvements**
+## **10. 🤝 Contributing**
 
 ### ⭐ Make AI Human-like
 
