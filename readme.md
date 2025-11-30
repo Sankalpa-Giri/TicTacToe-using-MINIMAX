@@ -16,7 +16,7 @@ This project implements a **Tic-Tac-Toe game** where a human player competes aga
 
 ### ✔ Console Interface: Clean, colored terminal output for game states (Wins, Errors, Draws).
 
-### ✔ Human can choose who plays first
+### ✔ Human can choose who plays first.
 
 ---
 
@@ -208,7 +208,7 @@ Gameplay continues with alternating turns.
 
 ### ⭐ Add Logging and Analytics
 
-* Track win rates
+* Track win rates 
 * Track move patterns
 * Evaluate human performance vs perfect AI
 
